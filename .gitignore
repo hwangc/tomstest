@@ -1,6 +1,9 @@
 /bootstrap/compiled.php
-/vendor/**/*
-!/vendor/way
+
+!/vendor/
+/vendor/*
+!/vendor/way/
+
 composer.phar
 composer.lock
 .env.*.php
