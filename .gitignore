@@ -1,8 +1,21 @@
 /bootstrap/compiled.php
+<<<<<<< HEAD
 /vendor
+=======
+
+!/vendor/
+/vendor/*
+!/vendor/way/
+
+>>>>>>> e7231c9ed72d5fdc9fb9db8695789a6923f3619c
 composer.phar
 composer.lock
 .env.*.php
 .env.php
 .DS_Store
+<<<<<<< HEAD
 Thumbs.db
+=======
+.idea/
+Thumbs.db
+>>>>>>> e7231c9ed72d5fdc9fb9db8695789a6923f3619c
