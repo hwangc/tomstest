@@ -31,3 +31,4 @@ Git hub test
 1. test github
 2. test diff
 3. test diff --cached
+4. test stage and unstage
