@@ -19,3 +19,7 @@ Route::get('/', function()
 
 Route::resource('nerds', 'NerdsController');
 
+
+
+
+});
