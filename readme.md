@@ -35,3 +35,4 @@ Git hub test
 5. checkout commit number to go back
 6. difftool test with bcomp
 7. test origin/hwangctest and hwangctest
+8. test mergetool with bcomp
