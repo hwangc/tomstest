@@ -33,3 +33,4 @@ Git hub test
 3. test diff --cached
 4. test stage and unstage
 5. checkout commit number to go back
+6. difftool test with bcomp
