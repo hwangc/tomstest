@@ -36,3 +36,4 @@ Git hub test
 6. difftool test with bcomp
 7. test origin/hwangctest and hwangctest
 8. test mergetool with bcomp
+9. change from hwangctest branch
