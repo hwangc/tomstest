@@ -32,3 +32,4 @@ Git hub test
 2. test diff
 3. test diff --cached
 4. test stage and unstage
+5. checkout commit number to go back
