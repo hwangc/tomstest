@@ -34,3 +34,4 @@ Git hub test
 4. test stage and unstage
 5. checkout commit number to go back
 6. difftool test with bcomp
+7. test origin/hwangctest and hwangctest
